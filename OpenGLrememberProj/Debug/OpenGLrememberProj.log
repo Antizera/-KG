@@ -1,0 +1,36 @@
+﻿  GUItextRectangle.cpp
+  MyOGL.cpp
+  Object.cpp
+  OpenGLrememberProj.cpp
+  Primitives.cpp
+  PrimitivesStatic.cpp
+  Render.cpp
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(89,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(90,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(91,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(92,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(93,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(102,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(103,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(104,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(105,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(128,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(129,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(130,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(131,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(132,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(135,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(160,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(161,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(162,45): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(163,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(164,49): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(321,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Function.h(455,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Render.cpp(116,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Render.cpp(116,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\OpenGLrememberProj\Render.cpp(116,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\AntizeraPC\Desktop\KG_Module_1_-45--master\Debug\OpenGLrememberProj.exe
